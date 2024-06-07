@@ -1,0 +1,33 @@
+body{
+    margin-left: 20px;
+}
+
+h3{
+    color: brown;
+    text-decoration: dotted;
+    font-style: italic;
+    font-size: larger;
+}
+
+.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: beige;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
+
+.edit{
+    background-color: cadetblue;
+    color: white;
+}
+
+.delete{
+    background-color: cadetblue;
+    color: white;
+}
